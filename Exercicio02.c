@@ -13,6 +13,6 @@ int main(){
     perimetro = 2 * comprimento + largura;
     area = comprimento + largura;
     
-    printf("Perimetro do Jardim: %f m \n" , perimetro);
-    printf("Area do Jardim: %f m" , area);
+    printf("Perimetro do Jardim: %.2f m \n" , perimetro);
+    printf("Area do Jardim: %.2f m" , area);
 }

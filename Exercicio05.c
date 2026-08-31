@@ -12,7 +12,7 @@ int main(){
 
     media = (nota1 + nota2) / 2;
 
-    printf("Media aritmetica: %f" , media);
+    printf("Media aritmetica: %.2f" , media);
 
     return 0;
 }

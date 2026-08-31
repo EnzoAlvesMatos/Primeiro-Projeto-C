@@ -8,7 +8,7 @@ int main(){
 
     QtAgua = Peso * 35;
 
-    printf("Quantidade aproximada de Agua recomendada por dia: %f litros" , QtAgua);
+    printf("Quantidade aproximada de Agua recomendada por dia: %.2f litros" , QtAgua);
 
     return 0;
 }

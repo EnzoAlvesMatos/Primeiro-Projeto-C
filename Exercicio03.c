@@ -9,7 +9,7 @@ int main(){
 
  meses = semanas / 4.34;
 
- printf("Tempo de gestacao aproximado: %f meses" , meses);
+ printf("Tempo de gestacao aproximado: %.2f meses" , meses);
 
  return 0;
 
