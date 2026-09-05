@@ -10,9 +10,11 @@ int main(){
     printf("Qual a Largura do Jardim (m)? " , largura);
     scanf("%f" , &largura);
 
-    perimetro = 2 * comprimento + largura;
-    area = comprimento + largura;
+    perimetro = 2 * (comprimento + largura);
+    area = comprimento * largura;
     
     printf("Perimetro do Jardim: %.2f m \n" , perimetro);
     printf("Area do Jardim: %.2f m" , area);
+
+    return 0;
 }
