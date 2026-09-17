@@ -106,6 +106,23 @@
 <p> Distância = √[(x2 − x1)² + (y2 − y1)²]</p>
 <img width="500" alt="Exercício14-Algoritmo" src="https://github.com/user-attachments/assets/b3e7985c-f744-4ae7-82c6-16b722f14c67" />
 
+<h3>Exercício 1.5</h3>
+<p>Este exercício serve para calcular a equação do segundo grau, usando as seguintes fórmulas:</p>
+<p>delta = potência(b, b) - (4 * a * c)</p>
+<p>x2 = (-b -  √[(delta)]) / (2 * a)</p>
+<p>x1 = (-b +  √[(delta)]) / (2 * a)</p>
+
+<img width="500" alt="Exercicio15-Algoritmo" src="https://github.com/user-attachments/assets/4a8697ca-bd1e-4902-943d-1b69e90ba140" />
+
+<h3>Exercício 1.6</h3>
+<p>Este exercício serve para calcular se um número é ímpar ou par.</p>
+<img width="500" alt="Exercício16-Algoritmo" src="https://github.com/user-attachments/assets/a21797c1-d967-46d9-85e7-fb0ea86477fa" />
+
+<h3>Exercício 1.7</h3>
+<p>Este exercício serve para calcular se um aluno está aprovado ou não, a partir da sua média, usando a fórmula:</p>
+<p>média = (nota1 + nota2) / 2</p>
+<img width="500" alt="Exercício17-Algoritmo" src="https://github.com/user-attachments/assets/f7b5e62e-2599-4da4-b2da-d365bcce6a8b" />
+
 <br>
 
 
