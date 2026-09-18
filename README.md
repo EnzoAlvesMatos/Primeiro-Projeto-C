@@ -124,10 +124,8 @@
 <img width="500" alt="Exercício17-Algoritmo" src="https://github.com/user-attachments/assets/f7b5e62e-2599-4da4-b2da-d365bcce6a8b" />
 
 <h3>🎲Exercício 18</h3>
-<p>Este exercício serve para calcular se um aluno foi aprovado ou reprovado, a partir de sua média e frequência escolar.
+<p>Este exercício serve para calcular se um aluno foi aprovado ou reprovado, a partir de sua média e frequência escolar.</p>
 <img width="500" alt="Exercicio18-Algoritmo" src="https://github.com/user-attachments/assets/029648c0-af3a-41e8-a76c-bcd3c7b8e1d9" />
-
-</p>
 
 <h3>🎲Exercício 19</h3>
 <p>Este exercício serve para calcular o IMC de uma pessoa e informar se ela está abaixo do peso, com peso normal, com sobrepeso, obesa ou com obesidade mórbida, usando a fórmula:</p>
@@ -157,14 +155,11 @@
 <p>Média aritmética = (nota1 + nota2) ÷ 2</p>
 <img width="500" alt="Exercicio22-Algoritmo" src="https://github.com/user-attachments/assets/c3c7f3e6-0250-4c93-98b3-adc0d67cfd7b" />
 
-
 <br>
-
-
 <h2>👨‍💻 Autor</h2>
 <p>Enzo Alves Matos</p>
 <p>Este projeto é composto por exercícios que desenvolvi para aprender e praticar a linguagem C.</p>
-<h3>Contato</h3>
+<h3>📩Contato</h3>
 <a href="https://www.linkedin.com/in/enzo-alves-matos-10724230b/" taget"_blank"><img src="https://img.shields.io/badge/LinkedIn-6100A3?style=for-the-badge&logo=linkedn&logoColor=white"></a>
 <a href="https://criarmeulink.com.br/u/1785864539" taget"_blank"><img src="https://img.shields.io/badge/Gmail-2b00A3?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://dev.to/enzoalvesmato" taget"_blank"><img src="https://img.shields.io/badge/dev.to-6100A3?style=for-the-badge&logo=dev.to&logoColor=white"></a>
