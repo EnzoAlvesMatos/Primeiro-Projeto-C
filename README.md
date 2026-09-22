@@ -160,8 +160,10 @@
 
 <br>
 <h2>👨‍💻 Autor</h2>
-<p>Enzo Alves Matos</p>
-<p>Este projeto é composto por exercícios que desenvolvi para aprender e praticar a linguagem C.</p>
+  <h3>👍 Quem Sou Eu</h3>
+  <p>Meu nome é Enzo Alves Matos, sou formado em Técnico em Desenvolvimento de Sistemas e, atualmente,
+curso Ciência da Computação. Sou apaixonado por desenvolvimento front-end e meu foco atual
+é aprimorar minhas habilidades para, no futuro, atuar profissionalmente na criação de sites.</p>
 <h3>📩 Contato</h3>
 <a href="https://www.linkedin.com/in/enzo-alves-matos-10724230b/" taget"_blank"><img src="https://img.shields.io/badge/LinkedIn-6100A3?style=for-the-badge&logo=linkedn&logoColor=white"></a>
 <a href="https://criarmeulink.com.br/u/1785864539" taget"_blank"><img src="https://img.shields.io/badge/Gmail-2b00A3?style=for-the-badge&logo=gmail&logoColor=white"></a> 
