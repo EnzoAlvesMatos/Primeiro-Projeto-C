@@ -1,8 +1,14 @@
 # Primeiro Projeto em Linguagem C
 
 <h2>🖳 Sobre o Projeto</h2>
+
+<h3>❓ O Que é o Projeto</h3>
   
 <p>Eu criei este projeto com o objetivo de aprender como funciona a linguagem C, já que é a primeira vez que estou utilizando essa linguagem. A seguir, vou mostrar os exercícios realizados.</p>
+
+<h3>🧠 O que estou aprendendo</h3>
+
+<p>Neste projeto, eu estou aprendendo a utilizar a linguagem C. Ainda estou no início do meu aprendizado, mas, conforme eu for aprendendo e evoluindo, vou adicionando novos exercícios ao projeto.</p>
 
 <h2>🤖 Tecnologias Usadas</h2>
   <div display="inline" align="left">  
@@ -141,6 +147,7 @@
 <p>Total da hospedagem = 300 × diárias</p>
 <p>Total da hospedagem = 450 × diárias</p>
 <p>Total da hospedagem = 500 × diárias</p>
+<p><strong>Usando if e else</strong></p>
 <img width="500" alt="Exercicio20-Algoritmo" src="https://github.com/user-attachments/assets/f71d07c6-a52f-4ad6-971f-8a80fe495ae5" />
 
 
@@ -149,6 +156,7 @@
 </p>
 <p>Valor final = valor da compra + (valor da compra × juros ÷ 100)</p>
 <p>Valor da parcela = valor final ÷ quantidade de parcelas</p>
+<p><strong>Usando if e else</strong></p>
 <img width="500" alt="Exercicio21-Algoritmo" src="https://github.com/user-attachments/assets/6570159a-d88d-4731-b8c8-8769ca12d211" />
 
 
@@ -156,11 +164,40 @@
 <p>Este exercício serve para calcular a média da nota de um aluno, a partir do tipo de média que ele deseja utilizar: média ponderada ou média aritmética, usando as seguintes fórmulas:</p>
 <p>Média ponderada = ((nota1 × 3) + (nota2 × 7)) ÷ (3 + 7)</p>
 <p>Média aritmética = (nota1 + nota2) ÷ 2</p>
+<p><strong>Usando if e else</strong></p>
 <img width="500" alt="Exercicio22-Algoritmo" src="https://github.com/user-attachments/assets/c3c7f3e6-0250-4c93-98b3-adc0d67cfd7b" />
+
+<h3>🎲 Exercício 23</h3>
+<p>Este exercício serve para calcular o valor total e o valor de cada parcela a partir dos juros e da quantidade de parcelas, usando as seguintes fórmulas:
+</p>
+<p>Valor final = valor da compra + (valor da compra × juros ÷ 100)</p>
+<p>Valor da parcela = valor final ÷ quantidade de parcelas</p>
+<p><strong>Usando case</strong></p>
+<img width="500" alt="Exercicio23-Algoritmo" src="https://github.com/user-attachments/assets/a055a0db-a576-47d1-a53b-d4e7d0fd47a9" />
+
+
+
+<h3>🎲 Exercício 24</h3>
+<p>Este exercício serve para calcular o valor da hospedagem em um hotel, a partir do tipo de diária e da quantidade de diárias, utilizando as seguintes fórmulas:</p>
+<p>Total da hospedagem = 300 × diárias</p>
+<p>Total da hospedagem = 450 × diárias</p>
+<p>Total da hospedagem = 500 × diárias</p>
+<p><strong>Usando case</strong></p>
+<img width="500" alt="Exercicio24-Algoritmo" src="https://github.com/user-attachments/assets/515a89ac-5011-4e2a-86f9-ad4422e7a2ff" />
+
+
+<h3>🎲 Exercício 25</h3>
+<p>Este exercício serve para calcular a média da nota de um aluno, a partir do tipo de média que ele deseja utilizar: média ponderada ou média aritmética, usando as seguintes fórmulas:</p>
+<p>Média ponderada = ((nota1 × 3) + (nota2 × 7)) ÷ (3 + 7)</p>
+<p>Média aritmética = (nota1 + nota2) ÷ 2</p>
+<p><strong>Usando case</strong></p>
+<img width="500" alt="Exercicio25-Algoritmo" src="https://github.com/user-attachments/assets/6b2076bb-c397-4602-b1ba-6be57d31416e" />
+
 
 <br>
 <h2>👨‍💻 Autor</h2>
   <h3>👍 Quem Sou Eu</h3>
+  
   <p>Meu nome é Enzo Alves Matos, sou formado em Técnico em Desenvolvimento de Sistemas e, atualmente,
 curso Ciência da Computação. Sou apaixonado por desenvolvimento front-end e meu foco atual
 é aprimorar minhas habilidades para, no futuro, atuar profissionalmente na criação de sites.</p>
