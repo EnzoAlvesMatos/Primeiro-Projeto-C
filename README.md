@@ -1,4 +1,5 @@
-# Primeiro Projeto em Linguagem C
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Primeiro%20Projeto%20em%20Linguagem%20C&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <h2>🖳 Sobre o Projeto</h2>
 
