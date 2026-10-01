@@ -2,6 +2,7 @@
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular se um aluno está aprovado ou não, a partir da sua média, usando a fórmula:</p>
 <p>média = (nota1 + nota2) ÷ 2</p>
+<p><strong>Usando if e else</strong></p>
 <img width="500" alt="Exercício17-Algoritmo" src="https://github.com/user-attachments/assets/f7b5e62e-2599-4da4-b2da-d365bcce6a8b" />
 
 
