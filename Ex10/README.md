@@ -1,5 +1,5 @@
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2002&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2010&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular o IMC (Índice de Massa Corporal) de uma pessoa com base em seu peso e sua altura, utilizando a seguinte fórmula:</p>
 <p>IMC = peso ÷ altura²</p>
