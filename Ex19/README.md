@@ -2,6 +2,7 @@
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular o IMC de uma pessoa e informar se ela está abaixo do peso, com peso normal, com sobrepeso, obesa ou com obesidade mórbida, usando a fórmula:</p>
 <p>IMC = peso ÷ altura²</p>
+<p><strong>Usando if e else</strong></p>
 <img width="500" alt="Exercicio19-Algoritmo" src="https://github.com/user-attachments/assets/64a97fce-8f41-4982-a0d7-0578ac0abcb6" />
 
 
