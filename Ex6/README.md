@@ -1,4 +1,5 @@
-<h1>🎲 Exercício 06</h1>
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2006&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular a quantidade total de produtos recebidos nos turnos da manhã e da tarde, utilizando a seguinte fórmula:</p>
 <p>Total = tarde + manhã</p>
