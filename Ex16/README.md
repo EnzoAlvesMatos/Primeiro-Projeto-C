@@ -1,6 +1,7 @@
 <h1>🎲 Exercício 16</h1>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular se um número é ímpar ou par.</p>
+<p><strong>Usando if e else</strong></p>
 <img width="500" alt="Exercício16-Algoritmo" src="https://github.com/user-attachments/assets/a21797c1-d967-46d9-85e7-fb0ea86477fa" />
 
 
