@@ -1,4 +1,5 @@
-<h1>🎲 Exercício 16</h1>
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2016&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular se um número é ímpar ou par.</p>
 <p><strong>Usando if e else</strong></p>
