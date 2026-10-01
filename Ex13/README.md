@@ -1,4 +1,5 @@
-<h1>🎲 Exercício 13</h1>
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2013&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular a média ponderada de três notas, utilizando os seguintes pesos: 1, 2 e 4. Para isso, é utilizada a seguinte fórmula:</p>
 <p>Média = ((nota1 × 1) + (nota2 × 2) + (nota3 × 4)) ÷ (1 + 2 + 4)</p>
