@@ -1,5 +1,6 @@
 
-<h1>🎲 Exercício 01</h1>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2001&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular o perímetro de uma circulo com base no seu raio, utilizando a seguinte fórmula:</p>
 <p>Perímetro = 2 × π × raio.
