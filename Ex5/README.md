@@ -1,4 +1,5 @@
-<h1>🎲 Exercício 05</h1>
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2005&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular a média aritmética de um aluno utilizando duas de suas notas, conforme a seguinte fórmula:</p>
 <p>Média = (nota1 + nota2) ÷ 2</p>
