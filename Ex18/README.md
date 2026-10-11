@@ -1,8 +1,6 @@
-
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2018&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<h1>🎲 Exercício 18</h1>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular se um aluno foi aprovado ou reprovado, a partir de sua média e frequência escolar.</p>
-<p><strong>Usando if e else</strong></p>
 <img width="500" alt="Exercicio18-Algoritmo" src="https://github.com/user-attachments/assets/029648c0-af3a-41e8-a76c-bcd3c7b8e1d9" />
 
 

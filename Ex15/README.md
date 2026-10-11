@@ -1,5 +1,4 @@
-
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2015&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<h1>🎲 Exercício 15</h1>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular a equação do segundo grau, usando as seguintes fórmulas:</p>
 <p>delta = potência(b, b) - (4 × a × c)</p>
