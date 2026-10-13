@@ -1,11 +1,12 @@
-<h1>🎲 Exercício 21</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2021&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular o valor total e o valor de cada parcela a partir dos juros e da quantidade de parcelas, usando as seguintes fórmulas:
 </p>
 <p>Valor final = valor da compra + (valor da compra × juros ÷ 100)</p>
 <p>Valor da parcela = valor final ÷ quantidade de parcelas</p>
 <p><strong>Usando if e else</strong></p>
-<img width="500" alt="Exercicio21-Algoritmo" src="https://github.com/user-attachments/assets/6570159a-d88d-4731-b8c8-8769ca12d211" />
+<img width="500" alt="Exercicio21-Algoritmo" src="../imgReadme/Exercicicio21.png" />
 
 
 <h2>🤖 Tecnologias Usadas</h2>

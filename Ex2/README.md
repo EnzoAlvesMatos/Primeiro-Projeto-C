@@ -1,8 +1,9 @@
-<h1>🎲 Exercício 02</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2002&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <p>Este exercício serve para calcular a área e o perímetro de um jardim a partir do seu comprimento e de sua largura, utilizando as seguintes fórmulas:</p>
 <p> Área = comprimento × largura</p>
 <p>Perímetro = 2 × (comprimento + largura)</p>
-<img width="500" alt="Exercício02-Algoritmo" src="https://github.com/user-attachments/assets/286568c1-61b3-4aa3-8b53-6c86e5278093" />
+<img width="500" alt="Exercício02-Algoritmo" src="../imgReadme/Exercicicio02.png" />
 
 <h2>🤖 Tecnologias Usadas</h2>
   <div display="inline" align="left">  

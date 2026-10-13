@@ -1,10 +1,11 @@
-<h1>🎲 Exercício 11</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2011&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular a área de um terreno que será revestido, a quantidade de caixas necessárias e o valor total da compra, utilizando a largura e o comprimento do terreno, além do preço de cada caixa. Para isso, são utilizadas as seguintes fórmulas:</p>
 <p>Área = comprimento × largura</p>
 <p>Quantidade = área ÷ 2,5</p>
 <p>Valor total = valor × quantidade</p>
-<img width="500" alt="Exercício11-Algoritmo" src="https://github.com/user-attachments/assets/fc973f26-6aab-41e7-b072-f997025c9e04" />
+<img width="500" alt="Exercício11-Algoritmo" src="../imgReadme/Exercicicio11.png" />
 
 
 <h2>🤖 Tecnologias Usadas</h2>

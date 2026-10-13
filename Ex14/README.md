@@ -1,8 +1,9 @@
-<h1>🎲 Exercício 14</h1>
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2014&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular a distância entre dois pontos, representados pelas coordenadas (x1, y1) e (x2, y2), utilizando a seguinte fórmula:</p>
 <p> Distância = √[(x2 − x1)² + (y2 − y1)²]</p>
-<img width="500" alt="Exercício14-Algoritmo" src="https://github.com/user-attachments/assets/b3e7985c-f744-4ae7-82c6-16b722f14c67" />
+<img width="500" alt="Exercício14-Algoritmo" src="../imgReadme/Exercicicio14.png" />
 
 
 <h2>🤖 Tecnologias Usadas</h2>

@@ -1,10 +1,11 @@
-<h1>🎲 Exercício 22</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2022&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular a média da nota de um aluno, a partir do tipo de média que ele deseja utilizar: média ponderada ou média aritmética, usando as seguintes fórmulas:</p>
 <p>Média ponderada = ((nota1 × 3) + (nota2 × 7)) ÷ (3 + 7)</p>
 <p>Média aritmética = (nota1 + nota2) ÷ 2</p>
 <p><strong>Usando if e else</strong></p>
-<img width="500" alt="Exercicio22-Algoritmo" src="https://github.com/user-attachments/assets/c3c7f3e6-0250-4c93-98b3-adc0d67cfd7b" />
+<img width="500" alt="Exercicio22-Algoritmo" src="../imgReadme/Exercicicio22.png" />
 
 <h2>🤖 Tecnologias Usadas</h2>
   <div display="inline" align="left">  

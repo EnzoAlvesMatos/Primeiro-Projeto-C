@@ -1,8 +1,9 @@
-<h1>🎲 Exercício 04</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2004&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular a quantidade de água, em litros, que uma pessoa precisa consumir por dia a partir de sua massa corporal, em quilogramas, utilizando a seguinte fórmula:</p>
 <p>Quantidade de água = peso × 35</p>
-<img width="500" alt="Exercício04-Algoritmo" src="https://github.com/user-attachments/assets/b676e9b4-36ce-4cb2-9b2f-6e225768d2cb" />
+<img width="500" alt="Exercício04-Algoritmo" src="../imgReadme/Exercicicio04.png" />
 
 
 <h2>🤖 Tecnologias Usadas</h2>

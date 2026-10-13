@@ -1,8 +1,9 @@
-<h1>🎲 Exercício 12</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2012&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular a média aritmética de quatro números inteiros, utilizando a seguinte fórmula:</p>
 <p>Média = (número1 + número2 + número3 + número4) ÷ 4</p>
-<img width="500" alt="Exercício12-Algoritmo" src="https://github.com/user-attachments/assets/3780ca28-a326-400e-8f6e-2457120bb513" />
+<img width="500" alt="Exercício12-Algoritmo" src="../imgReadme/Exercicicio12.png" />
 
 
 <h2>🤖 Tecnologias Usadas</h2>

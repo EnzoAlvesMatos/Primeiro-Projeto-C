@@ -21,6 +21,4 @@ int main(){
      printf("Preco Total da compra: %.2f" , total);
 
      return 0;
-     
-    
 }

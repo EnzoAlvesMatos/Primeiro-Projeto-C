@@ -1,8 +1,9 @@
-<h1>🎲 Exercício 17</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2017&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular se um aluno está aprovado ou não, a partir da sua média, usando a fórmula:</p>
 <p>média = (nota1 + nota2) ÷ 2</p>
-<img width="500" alt="Exercício17-Algoritmo" src="https://github.com/user-attachments/assets/f7b5e62e-2599-4da4-b2da-d365bcce6a8b" />
+<img width="500" alt="Exercício17-Algoritmo" src="../imgReadme/Exercicicio17.png" />
 
 
 <h2>🤖 Tecnologias Usadas</h2>

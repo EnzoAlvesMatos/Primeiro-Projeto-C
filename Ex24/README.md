@@ -1,11 +1,12 @@
-<h1>🎲 Exercício 24</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2024&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular o valor da hospedagem em um hotel, a partir do tipo de diária e da quantidade de diárias, utilizando as seguintes fórmulas:</p>
 <p>Total da hospedagem = 300 × diárias</p>
 <p>Total da hospedagem = 450 × diárias</p>
 <p>Total da hospedagem = 500 × diárias</p>
 <p><strong>Usando case</strong></p>
-<img width="500" alt="Exercicio24-Algoritmo" src="https://github.com/user-attachments/assets/515a89ac-5011-4e2a-86f9-ad4422e7a2ff" />
+<img width="500" alt="Exercicio24-Algoritmo" src="../imgReadme/Exercicicio24.png" />
 
 
 <h2>🤖 Tecnologias Usadas</h2>

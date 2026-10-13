@@ -1,11 +1,12 @@
-<h1>🎲 Exercício 01</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2008&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular a soma, a subtração, a multiplicação e a divisão de dois números, utilizando as seguintes fórmulas:</p>
 <p>Soma = número1 + número2</p>
 <p>Subtração = número1 - número2</p>
 <p>Divisão = número1 ÷ número2.</p>
 <p>Multiplicação = número1 × número2</p>
-<img width="500" alt="Exercício08-Algoritmo" src="https://github.com/user-attachments/assets/6ad11060-7072-4710-8951-d078be45233d" />
+<img width="500" alt="Exercício08-Algoritmo" src="../imgReadme/Exercicicio08.png" />
 
 
 <h2>🤖 Tecnologias Usadas</h2>

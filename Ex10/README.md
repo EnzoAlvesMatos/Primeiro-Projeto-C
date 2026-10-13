@@ -1,9 +1,9 @@
-<h1>🎲 Exercício 10</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2010&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular o IMC (Índice de Massa Corporal) de uma pessoa com base em seu peso e sua altura, utilizando a seguinte fórmula:</p>
 <p>IMC = peso ÷ altura²</p>
-<img width="500" alt="Exercício10-Algoritmo" src="https://github.com/user-attachments/assets/e95a1fe3-a7d2-443e-adc0-e55d848c823c" />
-
+<img width="500" alt="Exercício10-Algoritmo" src="../imgReadme/Exercicicio10.png
 
 
 <h2>🤖 Tecnologias Usadas</h2>

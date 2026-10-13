@@ -1,8 +1,9 @@
-<h1>🎲 Exercício 09</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2009&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular o consumo mensal de um equipamento a partir de sua potência, em watts, e da quantidade de horas de uso diário, utilizando a seguinte fórmula:</p>
 <p>Consumo = (potência × hora × 30) ÷ 1000</p>
-<img width="500" alt="Exercício09-Algoritmo" src="https://github.com/user-attachments/assets/fc9eb53e-9874-4840-b893-c8731823e267" />
+<img width="500" alt="Exercício09-Algoritmo" src="../imgReadme/Exercicicio09.png" />
 
 
 <h2>🤖 Tecnologias Usadas</h2>

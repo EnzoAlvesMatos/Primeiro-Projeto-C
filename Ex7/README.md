@@ -1,8 +1,9 @@
-<h1>🎲 Exercício 07</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2007&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular quantos minutos se passaram desde 00h00, utilizando a hora e os minutos que o usuário digitar. O cálculo é realizado por meio da seguinte fórmula:</p>
 <p>Total = (hora × 60) + minuto</p>
-<img width="500" alt="Exercício07-Algoritmo" src="https://github.com/user-attachments/assets/92bce02a-9683-4f71-a498-7cdd5a3e377b" />
+<img width="500" alt="Exercício07-Algoritmo" src="../imgReadme/Exercicicio07.png" />
 
 
 <h2>🤖 Tecnologias Usadas</h2>
