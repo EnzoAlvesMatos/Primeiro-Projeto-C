@@ -1,29 +1,30 @@
 #include <stdio.h>
 
 int main(){
-    int quantalu, num = 1;
+    int quantalu = 0, num = 0;
     float media, nota, total;
-
-
-   do  { 
-  
-           
     printf("Qual a quantidade de alunos " , quantalu);
-    scanf("%d" , &quantalu);
+scanf("%d" , &quantalu);
+  while (quantalu != num)  { 
+
+
+    
 
             printf("Qual a nota do aluno %d" , num, nota );
         scanf("%f" , &nota);
-                               total += nota;
+                               
             num ++;
+               total += nota;  
+   media = total / quantalu;
               
         if(nota < 0 && nota > 10 ){
 
  printf("nota invalida");
     }
-    media = total / quantalu;
+   
     
 
-    }while (num == quantalu);
+    };
 
       
     printf("Media das notas igual a %.2f" , media);

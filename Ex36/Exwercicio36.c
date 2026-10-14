@@ -23,6 +23,26 @@ int main(){
 
         if(nota1 >= 0 && nota1 <= 10 && nota2 >= 0 && nota2 <= 10 && nota3 >= 0 && nota3 <= 10 && nota4 >= 0 && nota4 <= 10 && nota5 >= 0 && nota5 <= 10){
      mediatur = (nota1 + nota2 + nota3 + nota4 + nota5) / 5;
+     if(nota1 > nota3 &&  nota1 > nota2 && nota1 > nota4 && nota1 > nota5){
+        printf("nota maior e %.2f \n", nota1);
+     }
+        else if (nota2 > nota3 &&  nota2 > nota1 && nota2 > nota4 && nota2 > nota5){
+        printf("nota maior e %.2f \n", nota2);
+     }
+     else if (nota3 > nota2 &&  nota3 > nota1 && nota3 > nota4 && nota3 > nota5){
+        printf("nota maior e %.2f \n", nota3);
+     }
+        else if (nota4 > nota2 &&  nota4 > nota1 && nota4 > nota3 && nota4 > nota5){
+        printf("nota maior e %.2f \n", nota4);
+     }
+             else if (nota5 > nota2 &&  nota5 > nota1 && nota5 > nota3 && nota5 > nota4){
+        printf("nota maior e %.2f \n", nota5);
+     }
+     else{
+        printf("Todos iguais");
+     }
+
+
       printf("Total da media da turma e %.2f \n" , mediatur);
 
    }else{

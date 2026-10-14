@@ -1,10 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2032&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
-<p>Este exercício serve para calcular a média da nota de um aluno, a partir do tipo de média que ele deseja utilizar: média ponderada ou média aritmética, usando as seguintes fórmulas:</p>
-<p>Média ponderada = ((nota1 × 3) + (nota2 × 7)) ÷ (3 + 7)</p>
-<p>Média aritmética = (nota1 + nota2) ÷ 2</p>
-<p><strong>Usando case</strong></p>
+<p>Este exercício serve para verificar, em uma sequência de números de 1 a 50, quais são ímpares e quais são pares.</p>
+<p><strong>Usando while</strong></p>
 <img width="500" alt="Exercicio32-Algoritmo" src="../imgReadme/Exercicicio32.png" />
 
 
