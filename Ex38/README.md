@@ -1,11 +1,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6100A3,100:9600A3&height=180&section=header&text=Exercício%2038&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2>❓ Sobre o Exercício</h2>
-<p>Este exercício serve para calcular a média da nota de um aluno, a partir do tipo de média que ele deseja utilizar: média ponderada ou média aritmética, usando as seguintes fórmulas:</p>
-<p>Média ponderada = ((nota1 × 3) + (nota2 × 7)) ÷ (3 + 7)</p>
-<p>Média aritmética = (nota1 + nota2) ÷ 2</p>
+<p>Este exercício serve para calcular a média de uma turma utilizando a quantidade de notas e as notas dos alunos digitadas pelo usuário, por meio da seguinte fórmula:</p>
+<p> media = total de notas ÷ quantidade de alunos</p>
+
 <p><strong>Usando case</strong></p>
-<img width="500" alt="Exercicio37-Algoritmo" src="../imgReadme/Exercicicio37.png" />
+<img width="500" alt="Exercicio38-Algoritmo" src="../imgReadme/Exercicicio38.png" />
 
 
 <h2>🤖 Tecnologias Usadas</h2>

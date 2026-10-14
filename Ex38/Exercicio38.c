@@ -3,14 +3,14 @@
 int main(){
     int quantalu = 0, num = 0;
     float media, nota, total;
-    printf("Qual a quantidade de alunos " , quantalu);
+    printf("Qual a quantidade de alunos: " , quantalu);
 scanf("%d" , &quantalu);
   while (quantalu != num)  { 
 
 
     
 
-            printf("Qual a nota do aluno %d" , num, nota );
+            printf("Qual a nota do aluno %d: " , num, nota );
         scanf("%f" , &nota);
                                
             num ++;

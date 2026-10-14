@@ -1,1 +1,1 @@
-num ++;
+  while (quantalu != num) 
