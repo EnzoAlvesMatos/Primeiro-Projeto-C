@@ -3,7 +3,7 @@
 <h2>❓ Sobre o Exercício</h2>
 <p>Este exercício serve para calcular a média da turma e também identificar qual é a maior nota, utilizando a seguinte fórmula:</p>
 <p>Média aritmética = (nota1 + nota2 + nota3 + nota4 + nota5) ÷ 5</p>
-<p><strong>Usando case</strong></p>
+<p><strong>Usando do while</strong></p>
 <img width="500" alt="Exercicio36-Algoritmo" src="../imgReadme/Exercicicio36.png" />
 
 

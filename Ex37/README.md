@@ -4,7 +4,7 @@
 <p>Este exercício permite que o usuário digite quantos números inteiros quiser. Quando ele digitar zero, o programa exibirá a soma de todos os números ímpares informados, excluindo os números pares da soma, utilizando a seguinte fórmula:</p>
 
 <p>soma += números impares</p>
-<p><strong>Usando case</strong></p>
+<p><strong>Usando while</strong></p>
 <img width="500" alt="Exercicio37-Algoritmo" src="../imgReadme/Exercicicio37.png" />
 
 

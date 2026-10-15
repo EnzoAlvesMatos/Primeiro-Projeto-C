@@ -4,7 +4,7 @@
 <p>Este exercício serve para calcular a média de uma turma utilizando a quantidade de notas e as notas dos alunos digitadas pelo usuário, por meio da seguinte fórmula:</p>
 <p> media = total de notas ÷ quantidade de alunos</p>
 
-<p><strong>Usando case</strong></p>
+<p><strong>Usando while</strong></p>
 <img width="500" alt="Exercicio38-Algoritmo" src="../imgReadme/Exercicicio38.png" />
 
 

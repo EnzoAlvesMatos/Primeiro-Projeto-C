@@ -8,19 +8,25 @@ scanf("%d" , &quantalu);
   while (quantalu != num)  { 
 
 
-    
-
-            printf("Qual a nota do aluno %d: " , num, nota );
+    do{
+        if(nota >= 0 && nota <= 10 ){
+ printf("Qual a nota do aluno %d: " , num, nota );
         scanf("%f" , &nota);
+
+    }
+    else if(nota < 0 && nota > 10 ){
+         printf("Digite novamente a nota do aluno %d: " , num, nota );
+        scanf("%f" , &nota);
+    }
+           
                                
             num ++;
                total += nota;  
    media = total / quantalu;
               
-        if(nota < 0 && nota > 10 ){
+}while (condition)
 
- printf("nota invalida");
-    }
+
    
     
 
