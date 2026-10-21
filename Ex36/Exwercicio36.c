@@ -5,6 +5,11 @@ int main(){
     int resp;
 
     do{ 
+      for (size_t i = 0; i < count; i++)
+      {
+         /* code */
+      }
+      
          printf("Digite a nota do estudante 1: " ,  nota1);
     scanf("%f" , &nota1);
 
@@ -53,7 +58,10 @@ int main(){
   
 
          
-
+if(resp = 1){
+   printf("invalidade");
+   break;
+}
    
 printf(" digite 1 para continuar ou 2 para parar: " , resp);
   scanf("%d" , &resp);
