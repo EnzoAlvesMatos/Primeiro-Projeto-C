@@ -1,39 +1,56 @@
 #include <stdio.h>
 
 int main(){
-    int quantalu = 0, num = 0;
-    float media, nota, total;
-    printf("Qual a quantidade de alunos: " , quantalu);
-scanf("%d" , &quantalu);
-  while (quantalu != num)  { 
+    int num = 0, resp = 0;
+    float media, nota, total = 0, quantalu = 0;
+
+ 
 
 
     do{
-        if(nota >= 0 && nota <= 10 ){
+            printf("Qual a quantidade de alunos: " , quantalu);
+scanf("%f" , &quantalu);
+
+
+
+         while (quantalu != num)  { 
+        for ( num = 1; num <= quantalu; num++)
+    {
+
+
+    
+
  printf("Qual a nota do aluno %d: " , num, nota );
         scanf("%f" , &nota);
 
-    }
-    else if(nota < 0 && nota > 10 ){
+    
+    if(nota < 0 && nota > 10 ){
          printf("Digite novamente a nota do aluno %d: " , num, nota );
         scanf("%f" , &nota);
     }
+}
            
-                               
-            num ++;
+                     
                total += nota;  
-   media = total / quantalu;
-              
-}while (condition)
+                 num ++;
+   media = num / total;
+  
+      printf("Media das notas igual a %.2f" , media);  
+ 
+      
+      printf("Digite 1 para continuar e 11 para parar " , resp);
+      scanf("%d" , &resp);
+
+}          
+}while (resp == 1);
 
 
-   
+
+
     
 
-    };
-
       
-    printf("Media das notas igual a %.2f" , media);
+   
 
     return 0;
 }
